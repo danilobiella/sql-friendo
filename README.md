@@ -1,1 +1,2 @@
-# sql_friendo
+# sql-friendo
+
